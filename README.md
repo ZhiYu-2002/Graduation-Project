@@ -7,9 +7,9 @@ Laparoscopic Surgical Instruments Binary Segmentation (2023 fall - 2024 spring)
 
 • Segmented the sequenced images extracted from the video, approximately achieved the surgical instrument tracking and performed faster compared to others
 
-## Final Result
+## Final Visualization Result
 
-https://github.com/user-attachments/assets/512298f4-b38d-404b-b03b-2183543d4347
+<video src='https://github.com/user-attachments/assets/24db5b8d-329d-4a27-8196-431167fbc982' width=180/>
 
 ## Proposed Network Architecture
 
