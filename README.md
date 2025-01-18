@@ -23,8 +23,8 @@ Versatile code is available.
 
 • Made image and groundtruth appear in pairs as a supervised learning.
 
-• Used IoU, precision, recall, F1 score as metrics.
+• Used IoU, precision, recall, and F1 score as metrics.
 
-• Saved the trained model, load it for validation and calculate FPS to test the real time performance.
+• Saved the trained model, load it for validation and calculate FPS to test the real-time performance.
 
-• Compared the proposed model with other existing deep learning model.
+• Compared the proposed model with other existing deep learning models.
