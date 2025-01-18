@@ -9,8 +9,8 @@ Laparoscopic Surgical Instruments Binary Segmentation (2023 fall - 2024 spring)
 
 ## Final Result
 
-![image](https://github.com/user-attachments/assets/0a48370d-501f-4680-864d-b474503a4211)
+https://github.com/user-attachments/assets/512298f4-b38d-404b-b03b-2183543d4347
 
 ## Proposed Network Architecture
 
-![image](https://github.com/user-attachments/assets/ddd9ecce-927d-46e9-aff8-2cc6c1bd2f1f)
+![Network Architecture](https://github.com/user-attachments/assets/4ce29fbf-6b70-47e3-a8e2-4f304c79de82)
