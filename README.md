@@ -19,12 +19,12 @@ https://github.com/user-attachments/assets/f11b9d33-4d87-4e0c-9385-3872a78412ea
 
 Versatile code is available.
 
-• Visualise the image, groundtruth, and segmentation in training and validation.
+• Visualised the image, groundtruth, and segmentation in training and validation.
 
-• Make image and groundtruth appear in pairs as a supervised learning.
+• Made image and groundtruth appear in pairs as a supervised learning.
 
 • Used IoU, precision, recall, F1 score as metrics.
 
-• Save the trained model, load it for validation and calculate FPS to test the real time performance.
+• Saved the trained model, load it for validation and calculate FPS to test the real time performance.
 
 • Compared the proposed model with other existing deep learning model.
