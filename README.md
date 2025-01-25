@@ -11,7 +11,7 @@ Laparoscopic Surgical Instruments Binary Segmentation (2023 fall - 2024 spring)
 
 • All network structures in this article are implemented in Python programming language and implemented using PyTorch library.
 
-• Network training and verification are performed on Dell R740 server. The server is equipped with 2 Intel Xeon ® Gold 5218 CPU @ 2.10GHz processors, 128GB memory and a NVIDIA TESLA A10 computing card with 24G video memory.
+• Network training and verification are performed on Dell R740 server. The server is equipped with 2 Intel Xeon ® Gold 5218 CPU @ 2.10 GHz processors, 128 GB memory and a NVIDIA TESLA A10 computing card with 24 G video memory.
 
 ## Final Visualization Result
 
