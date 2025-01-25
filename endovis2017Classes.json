@@ -1,0 +1,16 @@
+{
+    "classes": [
+      {
+        "id": "0",
+        "name": "background",
+        "color": "[0,0,0]",
+        "super-category": "background"
+      },
+      {
+        "id": "1",
+        "name": "instrument",
+        "color": "[255,255,255]",
+        "super-category": "instrument"
+      }
+    ]
+  }
