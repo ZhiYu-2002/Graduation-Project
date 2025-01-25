@@ -15,7 +15,7 @@ https://github.com/user-attachments/assets/f11b9d33-4d87-4e0c-9385-3872a78412ea
 
 ![Network Architecture](https://github.com/user-attachments/assets/4ce29fbf-6b70-47e3-a8e2-4f304c79de82)
 
-## Notes
+## Conclusion
 
 Versatile code is available.
 
@@ -28,3 +28,7 @@ Versatile code is available.
 • Saved the trained model, load it for validation and calculate FPS to test the real-time performance.
 
 • Compared the proposed model with other existing deep learning models.
+
+## Notes
+
+• If utilizing the source code to display samples directly, the original labels with 3 channels (L mode) have to be converted to 1 channel. Please be careful. Sorry for this coarse work.
