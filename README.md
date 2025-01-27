@@ -23,6 +23,8 @@ https://github.com/user-attachments/assets/f11b9d33-4d87-4e0c-9385-3872a78412ea
 
 ## Notes
 
+• Code is modified based on m2caiSeg work: https://github.com/salmanmaq/segmentationNetworks.
+
 • If utilizing the source code to display samples directly, the original labels with 3 channels (L mode) have to be converted to 1 channel. Please be careful. Sorry for this coarse work.
 
 • Different versions distribute in these zip files with causal names (sorry about that), and to the best of my knowledge, the 4th version performed best. Please check again before use since the network performances probably vary according to deployment. 
